@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "nca-client-app",
+    "NCA APP": "nca-client-app"
+  },
+  "targets": {},
+  "etags": {}
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125991137013",
+    "project_id": "nca-client-app",
+    "storage_bucket": "nca-client-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125991137013:android:f1e942f08eb90f038e1fbc",
+        "android_client_info": {
+          "package_name": "com.ncacustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125991137013-idqjmp26sik1gtt2qvqcoc1g3ekqh3cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4KhLB4yvfD_-UXpzBCqUV0edbIpLHac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125991137013-idqjmp26sik1gtt2qvqcoc1g3ekqh3cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
